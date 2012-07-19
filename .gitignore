@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+.idea
+.idea/
+target/
+atlassian-ide-plugin.xml
+
+Java-Redis-Aspect-Messenger.iml
+
+.idea/ant.xml
